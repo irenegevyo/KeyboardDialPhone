@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = MainActivity.class.getSimpleName(); //untuk ngasih tau tempat ngambil tagnya
+    private static final String TAG = MainActivity.class.getSimpleName(); //untuk ngasih tau tempat ngambil tagnya (konstanta)
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
